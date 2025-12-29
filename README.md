@@ -32,8 +32,11 @@ This package allows developers to send **WhatsApp text and media messages** easi
 ## 📂 Project Structure
 
 ├── WhatsAppApiGateway.php
+
 ├── send.php
+
 ├── whatsapp_gateway.log
+
 └── README.md
 
 
